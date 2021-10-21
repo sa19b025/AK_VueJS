@@ -12,8 +12,8 @@ export default {
     data: {
         title: 'Hello World!'
     }
-});
-}
+})
+};
 </script>
 
 <style>
